@@ -6,3 +6,6 @@ Full Cycle Rocks!!
 ```
 
 Entretanto, a imagem deve possuir menos de 2MB.
+
+# Dockerhub
+A imagem foi hospedada no Dockerhub neste [link](https://hub.docker.com/r/lucassugi/desafio-go)
